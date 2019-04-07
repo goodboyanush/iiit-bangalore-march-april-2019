@@ -16,3 +16,10 @@
 
 
 ## Acknowledgement
+
+References and they have better slides! 
+
+ - Book on “Deep Learning” (https://www.deeplearningbook.org/ )
+ - CS231n: Convolutional Neural Networks for Visual Recognition (http://vision.stanford.edu/teaching/cs231n/index.html ) 
+ - CS 6501-004: Deep Learning for Visual Recognition (http://vicenteordonez.com/deeplearning/ )
+ - ECE 6504 Deep Learning for Perception (https://computing.ece.vt.edu/~f15ece6504/ )
