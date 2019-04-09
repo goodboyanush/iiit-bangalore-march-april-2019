@@ -17,7 +17,7 @@
 
 ## Acknowledgement
 
-References and they have better slides! 
+References and they have better slides! With huge respects to their slides, hard work, and efforts, I acknowledge them and only makes sense to reuse some part of their slides!
 
  - Book on “Deep Learning” (https://www.deeplearningbook.org/ )
  - CS231n: Convolutional Neural Networks for Visual Recognition (http://vision.stanford.edu/teaching/cs231n/index.html ) 
